@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "exercise_1",
+      "cwd": "exercise_1",
+      "request": "launch",
+      "type": "dart",
+      "program": "snippet.dart"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+name: Flutter course
+type: dart
+steps:
+  - name: Exercise 1
+    directory: .
