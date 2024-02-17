@@ -1,4 +1,4 @@
-# Esercizio 1
+# Esercizio 1 - Facciamo pratica con Dart
 
 - Creare una classe `Animale` con attributi `nome` e `eta`, ed i metodi `verso()` e `mostraInfo()`
 - Creare una classe `Cane` che estende `Animale` inserendo un ulteriore attributo `taglia` (grande, media o piccola)
