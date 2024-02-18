@@ -70,9 +70,9 @@ class MainApp extends StatelessWidget {
                 'Troverai un vasto assortimento di cibi prelibati in grado di soddisfare i palati di tutti i nostri clienti.',
               ),
               const SizedBox(height: 16),
-              Row(
+              const Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                children: const [
+                children: [
                   Chip(label: Text('Pasta')),
                   Chip(label: Text('Pizza')),
                   Chip(label: Text('Bibite')),
