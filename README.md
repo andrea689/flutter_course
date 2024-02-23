@@ -10,3 +10,8 @@
 
 - [Testo esercizio](exercise_2/README.md)
 - [Soluzione](exercise_2/lib/main.dart)
+
+## Esercizio 3 - Navighiamo tra due pagine
+
+- [Testo esercizio](exercise_3/README.md)
+- [Soluzione](exercise_3)
