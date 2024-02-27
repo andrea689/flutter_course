@@ -15,3 +15,7 @@
 
 - [Testo esercizio](exercise_3/README.md)
 - [Soluzione](exercise_3)
+
+## Esempio utilizzo Cubit
+
+- [Esempio visto in classe](flutter_application_1)
