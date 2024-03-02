@@ -2,16 +2,12 @@
   "contacts": [
     {
       "id": 7643,
-      "uid": "14095958-2514-4f46-96da-e9e0822bd6bc",
-      "password": "RF9qI2nSPM",
       "first_name": "Wanda",
       "last_name": "Wunsch",
       "username": "wanda.wunsch",
       "email": "wanda.wunsch@email.com",
       "avatar": "https://robohash.org/eosvelipsa.png?size=300x300\u0026set=set1",
-      "gender": "Genderqueer",
       "phone_number": "+91 214.784.8427 x58674",
-      "social_insurance_number": "452014202",
       "date_of_birth": "1975-01-08",
       "employment": {
         "title": "Customer Technician",
@@ -28,29 +24,16 @@
           "lat": -58.87489810249344,
           "lng": -175.81998745614496
         }
-      },
-      "credit_card": {
-        "cc_number": "4489-7966-1037-2059"
-      },
-      "subscription": {
-        "plan": "Premium",
-        "status": "Pending",
-        "payment_method": "Debit card",
-        "term": "Annual"
       }
     },
     {
       "id": 5571,
-      "uid": "bbb44e15-dddc-4635-9878-a17286ea7c09",
-      "password": "VfKgokhAzU",
       "first_name": "Mariela",
       "last_name": "Breitenberg",
       "username": "mariela.breitenberg",
       "email": "mariela.breitenberg@email.com",
       "avatar": "https://robohash.org/officiiseostotam.png?size=300x300\u0026set=set1",
-      "gender": "Agender",
       "phone_number": "+673 (797) 533-4435",
-      "social_insurance_number": "101175982",
       "date_of_birth": "1991-11-13",
       "employment": {
         "title": "Consulting Coordinator",
@@ -67,29 +50,16 @@
           "lat": -24.20249185077543,
           "lng": 95.76275553018809
         }
-      },
-      "credit_card": {
-        "cc_number": "5174-8200-4062-0031"
-      },
-      "subscription": {
-        "plan": "Standard",
-        "status": "Pending",
-        "payment_method": "Debit card",
-        "term": "Monthly"
       }
     },
     {
       "id": 1694,
-      "uid": "ebaaff06-5478-4150-8f55-1c8c0a0f4eee",
-      "password": "JOGYZgmDXd",
       "first_name": "Jere",
       "last_name": "Crona",
       "username": "jere.crona",
       "email": "jere.crona@email.com",
       "avatar": "https://robohash.org/velbeataeoptio.png?size=300x300\u0026set=set1",
-      "gender": "Polygender",
       "phone_number": "+376 656.669.5673",
-      "social_insurance_number": "437507247",
       "date_of_birth": "1974-09-09",
       "employment": {
         "title": "Forward Coordinator",
@@ -106,29 +76,16 @@
           "lat": -48.23825315568298,
           "lng": 110.2738538499799
         }
-      },
-      "credit_card": {
-        "cc_number": "5296-0627-3379-4996"
-      },
-      "subscription": {
-        "plan": "Free Trial",
-        "status": "Blocked",
-        "payment_method": "Money transfer",
-        "term": "Monthly"
       }
     },
     {
       "id": 9750,
-      "uid": "aec536a5-ddc0-404c-aced-5c2c8b6a21cd",
-      "password": "aCfmAXcstG",
       "first_name": "Ahmed",
       "last_name": "Hammes",
       "username": "ahmed.hammes",
       "email": "ahmed.hammes@email.com",
       "avatar": "https://robohash.org/quisquamrerumdoloremque.png?size=300x300\u0026set=set1",
-      "gender": "Genderfluid",
       "phone_number": "+7-7 1-823-770-8990 x1204",
-      "social_insurance_number": "533760294",
       "date_of_birth": "1968-11-17",
       "employment": {
         "title": "Technology Administrator",
@@ -145,29 +102,16 @@
           "lat": -29.449920055699884,
           "lng": 122.21395932300885
         }
-      },
-      "credit_card": {
-        "cc_number": "6771-8928-0072-6832"
-      },
-      "subscription": {
-        "plan": "Diamond",
-        "status": "Pending",
-        "payment_method": "Cheque",
-        "term": "Monthly"
       }
     },
     {
       "id": 7856,
-      "uid": "121a73ae-6a68-4bf3-92ee-0f6d8565cb99",
-      "password": "OkBc319aHm",
       "first_name": "Loyce",
       "last_name": "Hahn",
       "username": "loyce.hahn",
       "email": "loyce.hahn@email.com",
       "avatar": "https://robohash.org/doloremasperioresaut.png?size=300x300\u0026set=set1",
-      "gender": "Agender",
       "phone_number": "+61-8 664.137.2558 x24803",
-      "social_insurance_number": "927748327",
       "date_of_birth": "2002-10-04",
       "employment": {
         "title": "Real-Estate Analyst",
@@ -184,29 +128,16 @@
           "lat": -34.89634539543009,
           "lng": -11.234079473118527
         }
-      },
-      "credit_card": {
-        "cc_number": "4156417808819"
-      },
-      "subscription": {
-        "plan": "Bronze",
-        "status": "Pending",
-        "payment_method": "Money transfer",
-        "term": "Full subscription"
       }
     },
     {
       "id": 3444,
-      "uid": "8d73ff17-cb4e-406a-b086-dbd587bdaf09",
-      "password": "9HL37eMWkd",
       "first_name": "Cheryll",
       "last_name": "Raynor",
       "username": "cheryll.raynor",
       "email": "cheryll.raynor@email.com",
       "avatar": "https://robohash.org/quibusdamidrepellat.png?size=300x300\u0026set=set1",
-      "gender": "Female",
       "phone_number": "+1 946.025.0225",
-      "social_insurance_number": "374624179",
       "date_of_birth": "1963-11-27",
       "employment": {
         "title": "Central Farming Producer",
@@ -223,29 +154,16 @@
           "lat": -79.60892930980252,
           "lng": -112.80498157233433
         }
-      },
-      "credit_card": {
-        "cc_number": "4917-0216-7628-3047"
-      },
-      "subscription": {
-        "plan": "Platinum",
-        "status": "Idle",
-        "payment_method": "Credit card",
-        "term": "Full subscription"
       }
     },
     {
       "id": 2333,
-      "uid": "9f95eb7c-0ede-4e9d-a4fb-287074ab1bd9",
-      "password": "94iVBKWYty",
       "first_name": "Danika",
       "last_name": "Fahey",
       "username": "danika.fahey",
       "email": "danika.fahey@email.com",
       "avatar": "https://robohash.org/doloremquisint.png?size=300x300\u0026set=set1",
-      "gender": "Female",
       "phone_number": "+238 559-679-3053 x35712",
-      "social_insurance_number": "598954667",
       "date_of_birth": "1991-03-10",
       "employment": {
         "title": "Accounting Analyst",
@@ -262,29 +180,16 @@
           "lat": 25.053342428395453,
           "lng": -95.76441049986461
         }
-      },
-      "credit_card": {
-        "cc_number": "5221-9009-8794-7796"
-      },
-      "subscription": {
-        "plan": "Standard",
-        "status": "Idle",
-        "payment_method": "Credit card",
-        "term": "Payment in advance"
       }
     },
     {
       "id": 6549,
-      "uid": "20ab9dcb-27e2-45fd-8f29-49d3546a90b2",
-      "password": "cakPU9CqDl",
       "first_name": "Yen",
       "last_name": "Bogisich",
       "username": "yen.bogisich",
       "email": "yen.bogisich@email.com",
       "avatar": "https://robohash.org/laborevitaesint.png?size=300x300\u0026set=set1",
-      "gender": "Non-binary",
       "phone_number": "+351 (748) 015-7984",
-      "social_insurance_number": "484296801",
       "date_of_birth": "1979-03-26",
       "employment": {
         "title": "Healthcare Producer",
@@ -301,15 +206,108 @@
           "lat": 84.41009829617488,
           "lng": 48.80742858560643
         }
-      },
-      "credit_card": {
-        "cc_number": "4760279206242"
-      },
-      "subscription": {
-        "plan": "Starter",
-        "status": "Idle",
-        "payment_method": "Cash",
-        "term": "Payment in advance"
+      }
+    }
+  ],
+  "cats": [
+    {
+      "id": 1,
+      "name": "Whiskers",
+      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/1.jpg",
+      "owner": {
+        "name": "John",
+        "surname": "Doe",
+        "birthday": "1990-05-15"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Mittens",
+      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/2.jpg",
+      "owner": {
+        "name": "Jane",
+        "surname": "Smith",
+        "birthday": "1985-12-28"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Luna",
+      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/3.jpg",
+      "owner": {
+        "name": "Robert",
+        "surname": "Johnson",
+        "birthday": "1978-09-03"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Simba",
+      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/4.jpg",
+      "owner": {
+        "name": "Emily",
+        "surname": "Davis",
+        "birthday": "1992-07-22"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Oreo",
+      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/5.jpg",
+      "owner": {
+        "name": "Alex",
+        "surname": "Brown",
+        "birthday": "1980-04-14"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Chloe",
+      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/6.jpg",
+      "owner": {
+        "name": "Sophia",
+        "surname": "Miller",
+        "birthday": "1995-01-19"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Shadow",
+      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/7.jpg",
+      "owner": {
+        "name": "David",
+        "surname": "Wilson",
+        "birthday": "1987-11-08"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Bella",
+      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/8.jpg",
+      "owner": {
+        "name": "Emma",
+        "surname": "Taylor",
+        "birthday": "1983-06-25"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Oliver",
+      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/9.jpg",
+      "owner": {
+        "name": "Ava",
+        "surname": "Anderson",
+        "birthday": "1989-02-12"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Milo",
+      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/10.jpg",
+      "owner": {
+        "name": "Michael",
+        "surname": "White",
+        "birthday": "1998-10-01"
       }
     }
   ]
