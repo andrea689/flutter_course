@@ -1,0 +1,19 @@
+{
+    "adult": false,
+    "backdrop_path": "https://image.tmdb.org/t/p/w780/nTPFkLUARmo1bYHfkfdNpRKgEOs.jpg",
+    "genre_ids": [
+        35,
+        10749
+    ],
+    "id": 6,
+    "original_language": "en",
+    "original_title": "Anyone But You",
+    "overview": "Bea e Ben sembrano la coppia perfetta, ma dopo un primo appuntamento straordinario, succede qualcosa che rende la loro attrazione ardente e fredda come il ghiaccio, finché non si ritrovano inaspettatamente insieme a un matrimonio di destinazione in Australia. Così fanno quello che farebbero due adulti maturi: fingere di essere una coppia.",
+    "popularity": 923.926,
+    "poster_path": "https://image.tmdb.org/t/p/w300/dr2vsVoXE39ddGsx9dq3dSpOUb8.jpg",
+    "release_date": "2023-12-21",
+    "title": "Tutti tranne te",
+    "video": false,
+    "vote_average": 6.966,
+    "vote_count": 868
+}

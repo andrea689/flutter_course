@@ -1,0 +1,22 @@
+{
+    "adult": false,
+    "backdrop_path": "https://image.tmdb.org/t/p/w780/meyhnvssZOPPjud4F1CjOb4snET.jpg",
+    "genre_ids": [
+        16,
+        28,
+        12,
+        35,
+        10751
+    ],
+    "id": 8,
+    "original_language": "en",
+    "original_title": "Migration",
+    "overview": "Una famiglia di anatre convince l'iperprotettivo padre ad andare tutti insieme in vacanza, deviando verso le Bahamas durante la loro migrazione dal New England a New York.",
+    "popularity": 952.176,
+    "poster_path": "https://image.tmdb.org/t/p/w300/6okaZf03sPiVWssrAzAW1fHo8Wq.jpg",
+    "release_date": "2023-12-06",
+    "title": "Prendi il volo",
+    "video": false,
+    "vote_average": 7.597,
+    "vote_count": 876
+}

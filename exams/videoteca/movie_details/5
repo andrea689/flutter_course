@@ -1,0 +1,20 @@
+{
+  "adult": false,
+  "backdrop_path": "https://image.tmdb.org/t/p/w780/oBIQDKcqNxKckjugtmzpIIOgoc4.jpg",
+  "genre_ids": [
+    28,
+    53,
+    10752
+  ],
+  "id": 5,
+  "original_language": "en",
+  "original_title": "Land of Bad",
+  "overview": "Quando una missione operativa speciale della Delta Force va terribilmente storta, il pilota di droni dell'Air Force Reaper ha 48 ore per rimediare a quella che si è trasformata in una selvaggia operazione di salvataggio.  Senza armi né comunicazioni oltre al drone in alto, la missione a terra diventa improvvisamente una battaglia su vasta scala quando la squadra viene scoperta dal nemico.",
+  "popularity": 889.425,
+  "poster_path": "https://image.tmdb.org/t/p/w300/h27WHO2czaY5twDmV3Wfx5IdqoE.jpg",
+  "release_date": "2024-01-25",
+  "title": "Land of Bad",
+  "video": false,
+  "vote_average": 6.972,
+  "vote_count": 302
+}

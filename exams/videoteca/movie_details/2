@@ -1,0 +1,20 @@
+{
+    "adult": false,
+    "backdrop_path": "https://image.tmdb.org/t/p/w780/ekRp1sEA8pnuzVHQkUESTgNSKdW.jpg",
+    "genre_ids": [
+        878,
+        28,
+        80
+    ],
+    "id": 2,
+    "original_language": "en",
+    "original_title": "Code 8 Part II",
+    "overview": "In un mondo in cui le persone dotate di superpoteri sono pesantemente controllate dai robot, un ex detenuto si allea con un signore della droga che disprezza per proteggere un adolescente da un poliziotto corrotto.",
+    "popularity": 1453.714,
+    "poster_path": "https://image.tmdb.org/t/p/w300/hhvMTxlTZtnCOe7YFhod9uz3m37.jpg",
+    "release_date": "2024-02-27",
+    "title": "Code 8 - Parte II",
+    "video": false,
+    "vote_average": 6.579,
+    "vote_count": 184
+}

@@ -1,0 +1,20 @@
+{
+    "adult": false,
+    "backdrop_path": "https://image.tmdb.org/t/p/w780/yyFc8Iclt2jxPmLztbP617xXllT.jpg",
+    "genre_ids": [
+        35,
+        10751,
+        14
+    ],
+    "id": 9,
+    "original_language": "en",
+    "original_title": "Wonka",
+    "overview": "Basato sullo straordinario protagonista de La Fabbrica di Cioccolato, il romanzo per bambini più iconico dell’autore Roald Dahl nonché uno dei libri per bambini più venduti di tutti i tempi, Wonka racconta la meravigliosa storia di come il più grande inventore, mago e cioccolataio del mondo sia diventato l'amato Willy Wonka che conosciamo oggi.",
+    "popularity": 637.501,
+    "poster_path": "https://image.tmdb.org/t/p/w300/d81h1ux3kDgvX8z8hhrdRqJToog.jpg",
+    "release_date": "2023-12-06",
+    "title": "Wonka",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 2406
+}

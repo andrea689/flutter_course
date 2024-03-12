@@ -1,0 +1,20 @@
+{
+    "adult": false,
+    "backdrop_path": "https://image.tmdb.org/t/p/w780/mDeUmPe4MF35WWlAqj4QFX5UauJ.jpg",
+    "genre_ids": [
+        28,
+        27,
+        53
+    ],
+    "id": 1,
+    "original_language": "pt",
+    "original_title": "No Way Up",
+    "overview": "Intrappolati sott’acqua dopo il crollo del loro aereo nell’oceano, i sopravvissuti devono cercare di fuggire mentre gli squali circondano il relitto",
+    "popularity": 1511.655,
+    "poster_path": "https://image.tmdb.org/t/p/w300/8qXNH7yXfQF7XYe3oDBMuXCYCLg.jpg",
+    "release_date": "2024-01-18",
+    "title": "No Way Up",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 129
+}

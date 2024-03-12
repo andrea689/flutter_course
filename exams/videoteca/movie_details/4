@@ -1,0 +1,22 @@
+{
+    "adult": false,
+    "backdrop_path": "https://image.tmdb.org/t/p/w780/gJL5kp5FMopB2sN4WZYnNT5uO0u.jpg",
+    "genre_ids": [
+        28,
+        12,
+        16,
+        35,
+        10751
+    ],
+    "id": 4,
+    "original_language": "en",
+    "original_title": "Kung Fu Panda 4",
+    "overview": "Po è destinato a diventare il nuovo leader spirituale della Valle della Pace, ma prima di poterlo fare, deve trovare un successore per diventare il nuovo Guerriero Drago. Sembra trovarne uno in Zhen, una volpe con molte abilità promettenti ma a cui non piace l'idea che Po lo alleni.",
+    "popularity": 1141.021,
+    "poster_path": "https://image.tmdb.org/t/p/w300/hXx9YEJzRhronB6jtfpzVh19WhY.jpg",
+    "release_date": "2024-03-02",
+    "title": "Kung Fu Panda 4",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 19
+}

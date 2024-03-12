@@ -1,0 +1,20 @@
+{
+    "adult": false,
+    "backdrop_path": "https://image.tmdb.org/t/p/w780/bQS43HSLZzMjZkcHJz4fGc7fNdz.jpg",
+    "genre_ids": [
+        878,
+        10749,
+        35
+    ],
+    "id": 7,
+    "original_language": "en",
+    "original_title": "Poor Things",
+    "overview": "Bella Baxter viene riportata in vita dal brillante e poco ortodosso scienziato Dr. Godwin Baxter. Affamata della mondanità che le manca, Bella fugge con Duncan Wedderburn, un avvocato elegante e dissoluto, in una vorticosa avventura attraverso i continenti.",
+    "popularity": 925.231,
+    "poster_path": "https://image.tmdb.org/t/p/w300/kpyN3APxvVaNsnzoeozB7Wt439m.jpg",
+    "release_date": "2023-12-07",
+    "title": "Povere creature!",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 1919
+}

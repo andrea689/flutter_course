@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "poster_path": "https://image.tmdb.org/t/p/w300/8qXNH7yXfQF7XYe3oDBMuXCYCLg.jpg",
+        "release_date": "2024-01-18",
+        "title": "No Way Up",
+        "vote_average": 5.7
+    },
+    {
+        "id": 2,
+        "poster_path": "https://image.tmdb.org/t/p/w300/hhvMTxlTZtnCOe7YFhod9uz3m37.jpg",
+        "release_date": "2024-02-27",
+        "title": "Code 8 - Parte II",
+        "vote_average": 6.579
+    },
+    {
+        "id": 3,
+        "poster_path": "https://image.tmdb.org/t/p/w300/zozGfM5kO9qbx1XSvwDwrh6yTca.jpg",
+        "release_date": "2024-02-27",
+        "title": "Dune - Parte due",
+        "vote_average": 8.5
+    },
+    {
+        "id": 4,
+        "poster_path": "https://image.tmdb.org/t/p/w300/hXx9YEJzRhronB6jtfpzVh19WhY.jpg",
+        "release_date": "2024-03-02",
+        "title": "Kung Fu Panda 4",
+        "vote_average": 7.5
+    },
+    {
+        "id": 5,
+        "poster_path": "https://image.tmdb.org/t/p/w300/h27WHO2czaY5twDmV3Wfx5IdqoE.jpg",
+        "release_date": "2024-01-25",
+        "title": "Land of Bad",
+        "vote_average": 6.972
+    },
+    {
+        "id": 6,
+        "poster_path": "https://image.tmdb.org/t/p/w300/dr2vsVoXE39ddGsx9dq3dSpOUb8.jpg",
+        "release_date": "2023-12-21",
+        "title": "Tutti tranne te",
+        "vote_average": 6.966
+    },
+    {
+        "id": 7,
+        "poster_path": "https://image.tmdb.org/t/p/w300/kpyN3APxvVaNsnzoeozB7Wt439m.jpg",
+        "release_date": "2023-12-07",
+        "title": "Povere creature!",
+        "vote_average": 8
+    },
+    {
+        "id": 8,
+        "poster_path": "https://image.tmdb.org/t/p/w300/6okaZf03sPiVWssrAzAW1fHo8Wq.jpg",
+        "release_date": "2023-12-06",
+        "title": "Prendi il volo",
+        "vote_average": 7.597
+    },
+    {
+        "id": 9,
+        "poster_path": "https://image.tmdb.org/t/p/w300/d81h1ux3kDgvX8z8hhrdRqJToog.jpg",
+        "release_date": "2023-12-06",
+        "title": "Wonka",
+        "vote_average": 7.2
+    },
+    {
+        "id": 10,
+        "poster_path": "https://image.tmdb.org/t/p/w300/a4DiBbHqXg91YQ8SLGL8otVqeOa.jpg",
+        "release_date": "2021-09-15",
+        "title": "Dune",
+        "vote_average": 7.787
+    }
+]

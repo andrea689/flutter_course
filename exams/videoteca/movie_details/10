@@ -1,0 +1,19 @@
+{
+    "adult": false,
+    "backdrop_path": "https://image.tmdb.org/t/p/w780/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+    "genre_ids": [
+        878,
+        12
+    ],
+    "id": 10,
+    "original_language": "en",
+    "original_title": "Dune",
+    "overview": "In un distante futuro dell'umanità, il duca Leto Atreides accetta la gestione del pericoloso pianeta di Arrakis, anche noto come Dune, l'unica fonte della sostanza più preziosa dell'universo, \"la spezia\", una droga che allunga la vita, fornisce capacità mentali sovrumane e rende possibili i viaggi nello spazio. Nonostante Leto sappia che l'offerta è parte di una complessa trappola creata dai suoi nemici, decide di partire per Arrakis, portando con sé la sua concubina Bene Gesserit Lady Jessica, il giovane figlio ed erede Paul, e i suoi più fidati consiglieri. Leto prende il controllo di un'operazione di estrazione della spezia, resa pericolosa dalla presenza di enormi vermi delle sabbie. Un amaro tradimento conduce Paul e Jessica dai Fremen, nativi di Arrakis che vivono nel deserto più profondo.",
+    "popularity": 738.577,
+    "poster_path": "https://image.tmdb.org/t/p/w300/a4DiBbHqXg91YQ8SLGL8otVqeOa.jpg",
+    "release_date": "2021-09-15",
+    "title": "Dune",
+    "video": false,
+    "vote_average": 7.787,
+    "vote_count": 10581
+}
