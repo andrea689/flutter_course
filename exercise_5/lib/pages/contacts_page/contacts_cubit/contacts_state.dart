@@ -1,4 +1,3 @@
-import 'package:collection/collection.dart';
 import 'package:exercise_5/model/contact.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 
@@ -12,7 +11,7 @@ class ContactsState with _$ContactsState {
     @Default([]) List<Contact> contacts,
     @Default(false) bool isAscending,
     @Default(false) bool isLoading,
-    @Default(false) hasError,
+    @Default(false) bool hasError,
   }) = _ContactsState;
 
   List<Contact> get sortedContacts {

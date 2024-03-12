@@ -7,7 +7,7 @@ part 'contact_state.freezed.dart';
 class ContactState with _$ContactState {
   const factory ContactState({
     Contact? contact,
-    @Default(false) isLoading,
-    @Default(false) hasError,
+    @Default(false) bool isLoading,
+    @Default(false) bool hasError,
   }) = _ContactState;
 }

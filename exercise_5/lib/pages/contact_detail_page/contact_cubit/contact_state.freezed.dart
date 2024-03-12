@@ -17,8 +17,8 @@ final _privateConstructorUsedError = UnsupportedError(
 /// @nodoc
 mixin _$ContactState {
   Contact? get contact => throw _privateConstructorUsedError;
-  dynamic get isLoading => throw _privateConstructorUsedError;
-  dynamic get hasError => throw _privateConstructorUsedError;
+  bool get isLoading => throw _privateConstructorUsedError;
+  bool get hasError => throw _privateConstructorUsedError;
 
   @JsonKey(ignore: true)
   $ContactStateCopyWith<ContactState> get copyWith =>
@@ -31,7 +31,7 @@ abstract class $ContactStateCopyWith<$Res> {
           ContactState value, $Res Function(ContactState) then) =
       _$ContactStateCopyWithImpl<$Res, ContactState>;
   @useResult
-  $Res call({Contact? contact, dynamic isLoading, dynamic hasError});
+  $Res call({Contact? contact, bool isLoading, bool hasError});
 
   $ContactCopyWith<$Res>? get contact;
 }
@@ -50,22 +50,22 @@ class _$ContactStateCopyWithImpl<$Res, $Val extends ContactState>
   @override
   $Res call({
     Object? contact = freezed,
-    Object? isLoading = freezed,
-    Object? hasError = freezed,
+    Object? isLoading = null,
+    Object? hasError = null,
   }) {
     return _then(_value.copyWith(
       contact: freezed == contact
           ? _value.contact
           : contact // ignore: cast_nullable_to_non_nullable
               as Contact?,
-      isLoading: freezed == isLoading
+      isLoading: null == isLoading
           ? _value.isLoading
           : isLoading // ignore: cast_nullable_to_non_nullable
-              as dynamic,
-      hasError: freezed == hasError
+              as bool,
+      hasError: null == hasError
           ? _value.hasError
           : hasError // ignore: cast_nullable_to_non_nullable
-              as dynamic,
+              as bool,
     ) as $Val);
   }
 
@@ -90,7 +90,7 @@ abstract class _$$ContactStateImplCopyWith<$Res>
       __$$ContactStateImplCopyWithImpl<$Res>;
   @override
   @useResult
-  $Res call({Contact? contact, dynamic isLoading, dynamic hasError});
+  $Res call({Contact? contact, bool isLoading, bool hasError});
 
   @override
   $ContactCopyWith<$Res>? get contact;
@@ -108,16 +108,22 @@ class __$$ContactStateImplCopyWithImpl<$Res>
   @override
   $Res call({
     Object? contact = freezed,
-    Object? isLoading = freezed,
-    Object? hasError = freezed,
+    Object? isLoading = null,
+    Object? hasError = null,
   }) {
     return _then(_$ContactStateImpl(
       contact: freezed == contact
           ? _value.contact
           : contact // ignore: cast_nullable_to_non_nullable
               as Contact?,
-      isLoading: freezed == isLoading ? _value.isLoading! : isLoading,
-      hasError: freezed == hasError ? _value.hasError! : hasError,
+      isLoading: null == isLoading
+          ? _value.isLoading
+          : isLoading // ignore: cast_nullable_to_non_nullable
+              as bool,
+      hasError: null == hasError
+          ? _value.hasError
+          : hasError // ignore: cast_nullable_to_non_nullable
+              as bool,
     ));
   }
 }
@@ -132,10 +138,10 @@ class _$ContactStateImpl implements _ContactState {
   final Contact? contact;
   @override
   @JsonKey()
-  final dynamic isLoading;
+  final bool isLoading;
   @override
   @JsonKey()
-  final dynamic hasError;
+  final bool hasError;
 
   @override
   String toString() {
@@ -148,16 +154,14 @@ class _$ContactStateImpl implements _ContactState {
         (other.runtimeType == runtimeType &&
             other is _$ContactStateImpl &&
             (identical(other.contact, contact) || other.contact == contact) &&
-            const DeepCollectionEquality().equals(other.isLoading, isLoading) &&
-            const DeepCollectionEquality().equals(other.hasError, hasError));
+            (identical(other.isLoading, isLoading) ||
+                other.isLoading == isLoading) &&
+            (identical(other.hasError, hasError) ||
+                other.hasError == hasError));
   }
 
   @override
-  int get hashCode => Object.hash(
-      runtimeType,
-      contact,
-      const DeepCollectionEquality().hash(isLoading),
-      const DeepCollectionEquality().hash(hasError));
+  int get hashCode => Object.hash(runtimeType, contact, isLoading, hasError);
 
   @JsonKey(ignore: true)
   @override
@@ -169,15 +173,15 @@ class _$ContactStateImpl implements _ContactState {
 abstract class _ContactState implements ContactState {
   const factory _ContactState(
       {final Contact? contact,
-      final dynamic isLoading,
-      final dynamic hasError}) = _$ContactStateImpl;
+      final bool isLoading,
+      final bool hasError}) = _$ContactStateImpl;
 
   @override
   Contact? get contact;
   @override
-  dynamic get isLoading;
+  bool get isLoading;
   @override
-  dynamic get hasError;
+  bool get hasError;
   @override
   @JsonKey(ignore: true)
   _$$ContactStateImplCopyWith<_$ContactStateImpl> get copyWith =>

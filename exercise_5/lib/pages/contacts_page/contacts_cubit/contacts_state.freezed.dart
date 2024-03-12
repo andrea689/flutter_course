@@ -19,7 +19,7 @@ mixin _$ContactsState {
   List<Contact> get contacts => throw _privateConstructorUsedError;
   bool get isAscending => throw _privateConstructorUsedError;
   bool get isLoading => throw _privateConstructorUsedError;
-  dynamic get hasError => throw _privateConstructorUsedError;
+  bool get hasError => throw _privateConstructorUsedError;
 
   @JsonKey(ignore: true)
   $ContactsStateCopyWith<ContactsState> get copyWith =>
@@ -36,7 +36,7 @@ abstract class $ContactsStateCopyWith<$Res> {
       {List<Contact> contacts,
       bool isAscending,
       bool isLoading,
-      dynamic hasError});
+      bool hasError});
 }
 
 /// @nodoc
@@ -55,7 +55,7 @@ class _$ContactsStateCopyWithImpl<$Res, $Val extends ContactsState>
     Object? contacts = null,
     Object? isAscending = null,
     Object? isLoading = null,
-    Object? hasError = freezed,
+    Object? hasError = null,
   }) {
     return _then(_value.copyWith(
       contacts: null == contacts
@@ -70,10 +70,10 @@ class _$ContactsStateCopyWithImpl<$Res, $Val extends ContactsState>
           ? _value.isLoading
           : isLoading // ignore: cast_nullable_to_non_nullable
               as bool,
-      hasError: freezed == hasError
+      hasError: null == hasError
           ? _value.hasError
           : hasError // ignore: cast_nullable_to_non_nullable
-              as dynamic,
+              as bool,
     ) as $Val);
   }
 }
@@ -90,7 +90,7 @@ abstract class _$$ContactsStateImplCopyWith<$Res>
       {List<Contact> contacts,
       bool isAscending,
       bool isLoading,
-      dynamic hasError});
+      bool hasError});
 }
 
 /// @nodoc
@@ -107,7 +107,7 @@ class __$$ContactsStateImplCopyWithImpl<$Res>
     Object? contacts = null,
     Object? isAscending = null,
     Object? isLoading = null,
-    Object? hasError = freezed,
+    Object? hasError = null,
   }) {
     return _then(_$ContactsStateImpl(
       contacts: null == contacts
@@ -122,7 +122,10 @@ class __$$ContactsStateImplCopyWithImpl<$Res>
           ? _value.isLoading
           : isLoading // ignore: cast_nullable_to_non_nullable
               as bool,
-      hasError: freezed == hasError ? _value.hasError! : hasError,
+      hasError: null == hasError
+          ? _value.hasError
+          : hasError // ignore: cast_nullable_to_non_nullable
+              as bool,
     ));
   }
 }
@@ -155,7 +158,7 @@ class _$ContactsStateImpl extends _ContactsState {
   final bool isLoading;
   @override
   @JsonKey()
-  final dynamic hasError;
+  final bool hasError;
 
   @override
   String toString() {
@@ -172,7 +175,8 @@ class _$ContactsStateImpl extends _ContactsState {
                 other.isAscending == isAscending) &&
             (identical(other.isLoading, isLoading) ||
                 other.isLoading == isLoading) &&
-            const DeepCollectionEquality().equals(other.hasError, hasError));
+            (identical(other.hasError, hasError) ||
+                other.hasError == hasError));
   }
 
   @override
@@ -181,7 +185,7 @@ class _$ContactsStateImpl extends _ContactsState {
       const DeepCollectionEquality().hash(_contacts),
       isAscending,
       isLoading,
-      const DeepCollectionEquality().hash(hasError));
+      hasError);
 
   @JsonKey(ignore: true)
   @override
@@ -195,7 +199,7 @@ abstract class _ContactsState extends ContactsState {
       {final List<Contact> contacts,
       final bool isAscending,
       final bool isLoading,
-      final dynamic hasError}) = _$ContactsStateImpl;
+      final bool hasError}) = _$ContactsStateImpl;
   const _ContactsState._() : super._();
 
   @override
@@ -205,7 +209,7 @@ abstract class _ContactsState extends ContactsState {
   @override
   bool get isLoading;
   @override
-  dynamic get hasError;
+  bool get hasError;
   @override
   @JsonKey(ignore: true)
   _$$ContactsStateImplCopyWith<_$ContactsStateImpl> get copyWith =>
