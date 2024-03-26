@@ -1,0 +1,20 @@
+{
+    "name": "Hotel Fiori",
+    "address": "Via Nazionale 163, Rione Monti, 00184 Roma, Italia",
+    "rooms": [
+        {
+            "type": "Camera Matrimoniale/Doppia con Letti Singoli",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/11976504.jpg?k=bfa9f59279ba7b41f9f7262b5f820bb192e93b1ab117355da7c1bcf7a17723c1&o=",
+            "adults": 2,
+            "mq": 17,
+            "price_for_night": 98
+        },
+        {
+            "type": "Camera Tripla",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/11976578.jpg?k=14b271850bf35d13f1d2677b0a933e07ee58ef05b0213121534fc04df7baaf58&o=",
+            "adults": 3,
+            "mq": 23,
+            "price_for_night": 125
+        }
+    ]
+}

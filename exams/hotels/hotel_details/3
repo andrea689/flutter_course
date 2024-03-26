@@ -1,0 +1,27 @@
+{
+    "name": "Hotel Pacific",
+    "address": "Viale Delle Medaglie D' Oro, 51, Trionfale, 00136 Roma, Italia ",
+    "rooms": [
+        {
+            "type": "Camera Matrimoniale",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329641121.jpg?k=ee2edd41cacc042f2774ed3974161f232556f9e25644e35e4ede845b37f1ee1d&o=",
+            "adults": 2,
+            "mq": 17,
+            "price_for_night": 110
+        },
+        {
+            "type": "Camera Tripla",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329644824.jpg?k=5b5d79e081734b3e8a06ab6285ec8bcd119a95044dab98fa1ce87998e9b7cf5e&o=",
+            "adults": 3,
+            "mq": 22,
+            "price_for_night": 140
+        },
+        {
+            "type": "Camera Singola",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/329642173.jpg?k=3f26c78499d8ad4466b426f9efcfbeea2340ab9a30eb9251f4da9725fe80edba&o=",
+            "adults": 1,
+            "mq": 12,
+            "price_for_night": 50
+        }
+    ]
+}

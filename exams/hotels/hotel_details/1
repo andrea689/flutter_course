@@ -1,0 +1,20 @@
+{
+    "name": "Cloud 9 Hotel",
+    "address": "243 Via Cola di Rienzo, Vaticano Prati, 00193 Roma, Italia",
+    "rooms": [
+        {
+            "type": "Camera Matrimoniale con Bagno Privato",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/534946868.jpg?k=b0c3331f0f7937ec0474f3916da8969ecb9cfd1a35aa6d2f580636e7e9f18112&o=",
+            "adults": 2,
+            "mq": 14,
+            "price_for_night": 100
+        },
+        {
+            "type": "Camera Matrimoniale Superior",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/534946872.jpg?k=6e359d079644ff127d859b2d9468554c4682c65ade966b30a25ce18782f25b85&o=",
+            "adults": 2,
+            "mq": 16,
+            "price_for_night": 125
+        }
+    ]
+}

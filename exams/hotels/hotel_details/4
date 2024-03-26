@@ -1,0 +1,20 @@
+{
+    "name": "Hotel Relais Dei Papi",
+    "address": "Via Dei Gracchi 161, Vaticano Prati, 00192 Roma, Italia",
+    "rooms": [
+        {
+            "type": "Camera Matrimoniale",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/427187632.jpg?k=74c67ab98fd2e64cd116798cfed5cba5a826f2f35ef63efea3d4f59267b70167&o=",
+            "adults": 2,
+            "mq": 17,
+            "price_for_night": 110
+        },
+        {
+            "type": "Camera Tripla",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224648417.jpg?k=44b482600f179a7e42c7ce46a35ac9fc4c107e5544257abc83411b44fe971fa3&o=",
+            "adults": 3,
+            "mq": 23,
+            "price_for_night": 145
+        }
+    ]
+}

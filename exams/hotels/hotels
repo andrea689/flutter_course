@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "main_photo": "https://cf.bstatic.com/xdata/images/hotel/square600/534946872.webp?k=7d1efe2c3b7c96d6e7e6288228cf130d1e967683f8e9eb210b77fb0be31b76df&o=",
+        "name": "Cloud 9 Hotel",
+        "description": "Il Cloud 9 Hotel offre sistemazioni a 2 stelle a Roma, a 600 metri dalla stazione della metropolitana Ottaviano e meno di 1 km dai Musei Vaticani.",
+        "vote_average": 8.7
+    },
+    {
+        "id": 2,
+        "main_photo": "https://cf.bstatic.com/xdata/images/hotel/square600/505023768.webp?k=c116368c1cab0e90109c693ac69d41e16e7ea240b6319465a88fb95b6d651bb5&o=",
+        "name": "Hotel Fiori",
+        "description": "Situato nel cuore di Roma, a 15 minuti a piedi dal Colosseo, dal Pantheon e dalla Fontana di Trevi, l'Hotel Fiori offre il WiFi gratuito in tutte le aree e sistemazioni climatizzate",
+        "vote_average": 6.579
+    },
+    {
+        "id": 3,
+        "main_photo": "https://cf.bstatic.com/xdata/images/hotel/square600/301986926.webp?k=789ed24c8783a9b6ebc273d43f24de05d9ff2197b061ce7100b69900290191e3&o=",
+        "name": "Hotel Pacific",
+        "description": "Con i suoi 50 anni di tradizione ed esperienza nell'accoglienza, l'Hotel Pacific occupa un edificio completamente rinnovato sito in un’elegante quartiere della Città Eterna",
+        "vote_average": 8.5
+    },
+    {
+        "id": 4,
+        "main_photo": "https://cf.bstatic.com/xdata/images/hotel/square600/271100252.webp?k=e65529c0fda3e3af63a34ac0614fbf9cbed60b9e62c8244b64b8ff2500c12c39&o=",
+        "name": "Hotel Relais Dei Papi",
+        "description": "Situato a soli 500 metri dalla Stazione Metro Lepanto sulla linea A, l'Hotel Relais Dei Papi dista 5 minuti a piedi da Piazza San Pietro e dai Musei Vaticani.",
+        "vote_average": 7.5
+    }
+]
