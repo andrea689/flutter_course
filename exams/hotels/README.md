@@ -13,7 +13,7 @@ GET https://raw.githubusercontent.com/andrea689/flutter_course/main/exams/hotels
 Ed un'altra API per ottenere le camere del singolo hotel avente id `<HOTEL_ID>`:
 
 ```
-GET https://raw.githubusercontent.com/andrea689/flutter_course/main/exams/hotels/hotels_details/<HOTEL_ID>
+GET https://raw.githubusercontent.com/andrea689/flutter_course/main/exams/hotels/hotel_details/<HOTEL_ID>
 ```
 
 ## Pagina 1 - Lista hotels
